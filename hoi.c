@@ -2,6 +2,6 @@
 
 int main()
 {
-        sout<<hoi/n"
+       printf("hoi\n");
 }
 
